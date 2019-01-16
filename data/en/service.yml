@@ -1,45 +1,45 @@
 enable: true
 title: Our Services
 subtitle: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  An overview of the services we provide
 content:
 
-  - icon: ion-coffee
-    name: Branding
+  - icon: fa fa-database
+    name: Data Recording
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      We provide solutions to help you store and monitor the data you generate on a day-to-day basis
 
-  - icon: ion-compass
-    name: Web Design
+  - icon: fa fa-trophy
+    name: Competitor Analysis
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      We help you understand who your main competitors are and help you design your hotel's strategy 
 
-  - icon: ion-image
-    name: App Design
+  - icon: fa fa-users
+    name: Customer Analysis
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Not every customer has the same value for your hotel. We help you find the ones with the maximum value
 
-  - icon: ion-bug
-    name: Start Up
+  - icon: fa fa-twitter
+    name: Social Media Analysis
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      We monitor all the major social media accounts to give you valueable insights.
 
-  - icon: ion-headphone
-    name: Logo Design
+  - icon: fa fa-money
+    name: Investment Analysis
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Thinking about opening a new hotel or a new restaurant? Your data knows the location.
 
-  - icon: ion-leaf
-    name: Development
+  - icon: fa fa-globe
+    name: Online Analysis
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Combine your online data with your social media data to attract more valuable customers.
 
-  - icon: ion-planet
-    name: Brand Identity
+  - icon: fa fa-line-chart
+    name: Forecasting
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      We forecast your demand and cancelations for rooms based on seasonality, weather, and local events for your hotel or restaurant.
 
-  - icon: ion-earth
-    name: Brand Identity
+  - icon: fa fa-random
+    name: Ad-hoc Analytics
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Different hotels have different needs. If you have a specific question whose answer lies in your data, we will help you find it.
