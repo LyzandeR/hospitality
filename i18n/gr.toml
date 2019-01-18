@@ -1,0 +1,12 @@
+[slider]
+other = "GR Slider"
+[wrapper]
+other = "GR wrapper"
+[feature]
+other = "GR feature"
+[service]
+other = "GR service"
+[call-to-action]
+other = "GR call-to-action"
+[testimonial]
+other = "GR testimonial"

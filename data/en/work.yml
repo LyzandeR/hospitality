@@ -4,11 +4,11 @@ subtitle: Don’t just take our word for it. Check out some of our latest work.
 
 portfolio:
   - category: Branding
-    url: "#"
+    url: "/work2"
     image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    name: Social
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Very Social
   - category: Websites
     url: "#"
     image: "/img/portfolio/work1.jpg"
