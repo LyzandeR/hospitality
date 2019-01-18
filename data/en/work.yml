@@ -1,38 +1,45 @@
 enable: true
-title: Just some of our latest projects.
-subtitle: Don’t just take our word for it. Check out some of our latest work.
+title: A Closer Look on our Products
+subtitle: Click on the images to find out more
 
 portfolio:
-  - category: Branding
-    url: "/work2"
+  - category: Data Collection
+    url: "/datacollection"
     image: "/img/portfolio/work1.jpg"
-    name: Social
+    name: Data Collection
     description: >
-      Very Social
-  - category: Websites
-    url: "#"
+      Start Recording your Data
+  - category: Competitor Analysis
+    url: "/competitoranalysis"
     image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    name: Competitor Analysis
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Graphics
-    url: "#"
+      Outperform the Competition
+  - category: Social Media
+    url: "/socialmedia"
     image: "/img/portfolio/work2.jpg"
-    name: Tesla Motors
+    name: Social Media
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Design
-    url: "#"
+      Gain Powerful insight through Social Media
+  - category: Customer Evaluation
+    url: "/customerevaluation"
     image: "/img/portfolio/work3.jpg"
-    name: Tesla Motors
+    name: Customer Evalutation
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Video
-    url: "#"
+      Discover your Customer's Value
+  - category: Online Analytics
+    url: "/onlineanalytics"
     image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
+    name: Online Analytics
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Learn where your Traffic Comes from
+  - category: Forecasting
+    url: "/forecasting"
+    image: "/img/portfolio/work4.jpg"
+    name: Forecasting
+    description: >
+      Find out obout your Future Demand
+
 clients:
   - image: "/img/clients/clients-logo1.png"
     url: "#"

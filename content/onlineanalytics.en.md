@@ -1,5 +1,5 @@
 +++
-title = "Work2"
-id = "work2"
+title = "onlineanalytics"
+id = "onlineanalytics"
 description = "This is meta description for portfolio page"
 +++
