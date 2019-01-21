@@ -158,19 +158,19 @@ theme = "airspace-hugo"
     [[Languages.en.menu.footer]]
       weight = 2
       name = "Contact us"
-      url = "#"
+      url = "/contact"
     [[Languages.en.menu.footer]]
       weight = 3
-      name = "How it works"
-      url = "#"
+      name = "Our Work"
+      url = "/work"
     [[Languages.en.menu.footer]]
       weight = 4
       name = "Blog"
-      url = "#"
+      url = "/blog"
     [[Languages.en.menu.footer]]
       weight = 5
-      name = "Terms"
-      url = "#"
+      name = "Terms and Conditions"
+      url = "/termsandconditions"
 
   [Languages.en.params.slider]
     enable = true

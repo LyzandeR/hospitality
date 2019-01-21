@@ -1,0 +1,18 @@
+enable: true
+title: Social Media
+paragraph: >
+     We live in the era of social media. Social media data and the data from your accounts create a vast amount of data
+     that can give you a competitive advantage. The combination of artificial intelligence and social media can give you 
+     information on a number of different topics:
+
+content:
+  - topic: Complaints from customers / services of great quality
+
+  - topic: Characteristics of people visiting the location of the hotel
+
+  - topic: Special events taking place near the hotel
+
+  - topic: Sentiment / Emotions of the people posting about the hotel
+
+  - topic: Monitoring and Measuring social media campaigns from the hotel
+
