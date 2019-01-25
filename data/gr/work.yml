@@ -1,38 +1,44 @@
 enable: true
-title: Quelques uns de nos derniers projets.
-subtitle: Don’t just take our word for it. Check out some of our latest work.
+title: ΣΥΝΟΨΗ ΤΩΝ ΠΡΟΙΟΝΤΩΝ ΜΑΣ
+subtitle: Κάντε κλικ στις εικόνες για να μάθετε περισσότερα
 
 portfolio:
-  - category: fr-Branding
-    url: "#"
+  - category: Καταγραφη Δεδομενων
+    url: "/gr/datacollection"
     image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    name: Καταγραφη Δεδομενων
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: fr-Websites
-    url: "#"
+      Ξεκινήστε να καταγράφετε τα δεδομένα σας
+  - category: Αναλυση Ανταγωνισμου
+    url: "/gr/competitoranalysis"
     image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    name: Αναλυση Ανταγωνισμου
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: fr-Graphics
-    url: "#"
+      Κερδίστε πλεονέκτημα απέναντι στον ανταγωνισμό
+  - category: Κοινωνικα Δικτυα
+    url: "/gr/socialmedia"
     image: "/img/portfolio/work2.jpg"
-    name: Tesla Motors
+    name: Κοινωνικα Δικτυα
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: fr-Design
-    url: "#"
+      Μάθετε χρήσιμες πληροφορίες απο τα κοινωνικά δίκτυα
+  - category: Αναλυση Πελατων
+    url: "/gr/customerevaluation"
     image: "/img/portfolio/work3.jpg"
-    name: Tesla Motors
+    name: Αναλυση Πελατων
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: fr-Video
-    url: "#"
+      Ανακαλύψτε την αξία των πελατών σας    
+  - category: Online Αναλυση
+    url: "/gr/onlineanalytics"
+    image: "/img/portfolio/work3.jpg"
+    name: Online Αναλυση
+    description: >
+      Μάθετε από που προέρχεται η επισκεψιμότητα στο site σας
+  - category: Προβλεψεις
+    url: "/gr/forecasting"
     image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
+    name: Προβλεψεις
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Μάθετε την μελλοντική πορεία των δεικτών που σας ενδιαφέρουν
 clients:
   - image: "/img/clients/clients-logo1.png"
     url: "#"
