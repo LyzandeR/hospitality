@@ -16,7 +16,7 @@ theme = "airspace-hugo"
   # This license is offered with a 50% discount for all Hugo users.
   # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
-# Multilangual : FR / EN
+# Multilangual : GR / EN
 [Languages]
     ############ 1 - Site en FRANCAIS
   
@@ -39,7 +39,7 @@ theme = "airspace-hugo"
     [[Languages.gr.menu.header]]
       weight = 3
       name = "Blog"
-      url = "/gr/blog"
+      url = "gr/blog"
     [[Languages.gr.menu.header]]
       weight = 4
       name = "Υπηρεσίες"
@@ -56,19 +56,19 @@ theme = "airspace-hugo"
     [[Languages.gr.menu.footer]]
       weight = 2
       name = "Επικοινωνία"
-      url = "#"
+      url = "/gr/contact"
     [[Languages.gr.menu.footer]]
       weight = 3
-      name = "Πως λειτουργεί"
-      url = "#"
+      name = "Προιόντα"
+      url = "/gr/work"
     [[Languages.gr.menu.footer]]
       weight = 4
       name = "Blog"
-      url = "#"
+      url = "gr/blog"
     [[Languages.gr.menu.footer]]
       weight = 5
       name = "Όροι"
-      url = "#"
+      url = "termsandconditions"
 
 
   [Languages.gr.params]
@@ -117,7 +117,7 @@ theme = "airspace-hugo"
       [Languages.gr.params.contact.box]
         title = ""
         address = ""
-        email = "Email: info@hospitalitysolutions.com"
+        email = "Email: info@hospitalityaisolutions.com"
         phone = "Phone: "
       [Languages.gr.params.contact.gmaps]
         title = ""

@@ -5,37 +5,37 @@ subtitle: Click on the images to find out more
 portfolio:
   - category: Data Collection
     url: "/datacollection"
-    image: "/img/portfolio/work1.jpg"
+    image: "/img/work/data-collection3.jpg"
     name: Data Collection
     description: >
       Start Recording your Data
   - category: Competitor Analysis
     url: "/competitoranalysis"
-    image: "/img/portfolio/work1.jpg"
+    image: "/img/work/competitors3.jpg"
     name: Competitor Analysis
     description: >
       Outperform the Competition
   - category: Social Media
     url: "/socialmedia"
-    image: "/img/portfolio/work2.jpg"
+    image: "/img/work/social3.jpg"
     name: Social Media
     description: >
       Gain Powerful insight through Social Media
   - category: Customer Evaluation
     url: "/customerevaluation"
-    image: "/img/portfolio/work3.jpg"
+    image: "/img/work/customers3.jpg"
     name: Customer Evalutation
     description: >
       Discover your Customer's Value
   - category: Online Analytics
     url: "/onlineanalytics"
-    image: "/img/portfolio/work4.jpg"
+    image: "/img/work/online3.jpg"
     name: Online Analytics
     description: >
       Learn where your Traffic Comes from
   - category: Forecasting
     url: "/forecasting"
-    image: "/img/portfolio/work4.jpg"
+    image: "/img/work/forecasting3.jpg"
     name: Forecasting
     description: >
       Find out obout your Future Demand

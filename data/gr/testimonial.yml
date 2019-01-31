@@ -1,44 +1,38 @@
 enable: true
-title: Faits amusants à propos de nous
+title: Λιγα λογια για εμας
 paragraph: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  Ιδρύσαμε την HAIS από την αγάπη μας για τα δεδομένα, την τεχνιτή νοημοσύνη και τον κλάδο της φιλοξενίας. Φιλοδοξία και στόχος μας είναι να φέρουμε επανάσταση στον τρόπο με τον οποίο τα ξενοδοχεία λαμβάνουν αποφάσεις.
 
 numbers:
-  - icon: ion-ios-chatboxes-outline
+  - icon: fa fa-cogs
+    counter: 1000
+    text: Μοντέλα Τεχνιτής Νοημοσύνης
+  - icon: fa fa-line-chart
+    counter: 500
+    text: Γραφήματα
+  - icon: fa fa-cloud
+    counter: 10000
+    text: Ώρες σκέψης για ξενοδοχεία
+  - icon: fa fa-plug
     counter: 2000
-    text: FR Cups of Coffee
-  - icon: ion-ios-glasses-outline
-    counter: 2000
-    text: FR Cups of Coffee
-  - icon: ion-ios-compose-outline
-    counter: 2000
-    text: FR Cups of Coffee
-  - icon: ion-ios-timer-outline
-    counter: 2000
-    text: FR Cups of Coffee
+    text: ΑΡΙs που χρησιμοποιούμε 
 
 people:
   - text: >
       This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
     quoteImg: img/cotation.png
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+    image: img/chrispet2.jpg
+    name: Χρήστος Πετρίδης
+    role: Συνιδρυτής HAIS
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+      Για πάνω από 7 χρόνια εργάζομαι στον κλάδο της ελεγχτικής. Η συνεργασία μου με πελάτες από διαφορετικούς τομείς με βοήθησε να καταλάβω ότι η πρόσβαση στις σωστές πληροφορίες είναι το κλειδί για την επιτυχία. 
     quoteImg: img/cotation.png
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+    image: img/chriskrous2.jpg
+    name: Χρήστος Κρούσαρλης
+    role: Συνιδρυτής HAIS
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+      Μετά από σχεδόν 10 χρόνια στον κλάδο της τεχνιτής νοημοσύνης, αποφάσισα να ενώσω το πάθος μου για δεδομένα με ένα κλάδο που βρίσκω εξαιρετικά ενδιαφέρων; την Φιλοξενία. Όταν επρόκειτο για δεδομένα, είμαι το σημείο επικοινωνίας!
     quoteImg: img/cotation.png
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
-  - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    quoteImg: img/cotation.png
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+    image: img/theobout2.png
+    name: Θοδωρής Μπουτάρης
+    role: Συνιδρυτής HAIS

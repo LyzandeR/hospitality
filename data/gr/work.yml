@@ -5,37 +5,37 @@ subtitle: Κάντε κλικ στις εικόνες για να μάθετε �
 portfolio:
   - category: Καταγραφη Δεδομενων
     url: "/gr/datacollection"
-    image: "/img/portfolio/work1.jpg"
+    image: "/img/work/data-collection3.jpg"
     name: Καταγραφη Δεδομενων
     description: >
       Ξεκινήστε να καταγράφετε τα δεδομένα σας
   - category: Αναλυση Ανταγωνισμου
     url: "/gr/competitoranalysis"
-    image: "/img/portfolio/work1.jpg"
+    image: "/img/work/competitors3.jpg"
     name: Αναλυση Ανταγωνισμου
     description: >
       Κερδίστε πλεονέκτημα απέναντι στον ανταγωνισμό
   - category: Κοινωνικα Δικτυα
     url: "/gr/socialmedia"
-    image: "/img/portfolio/work2.jpg"
+    image: "/img/work/social3.jpg"
     name: Κοινωνικα Δικτυα
     description: >
       Μάθετε χρήσιμες πληροφορίες απο τα κοινωνικά δίκτυα
   - category: Αναλυση Πελατων
     url: "/gr/customerevaluation"
-    image: "/img/portfolio/work3.jpg"
+    image: "/img/work/customers3.jpg"
     name: Αναλυση Πελατων
     description: >
       Ανακαλύψτε την αξία των πελατών σας    
   - category: Online Αναλυση
     url: "/gr/onlineanalytics"
-    image: "/img/portfolio/work3.jpg"
+    image: "/img/work/online3.jpg"
     name: Online Αναλυση
     description: >
       Μάθετε από που προέρχεται η επισκεψιμότητα στο site σας
   - category: Προβλεψεις
     url: "/gr/forecasting"
-    image: "/img/portfolio/work4.jpg"
+    image: "/img/work/forecasting3.jpg"
     name: Προβλεψεις
     description: >
       Μάθετε την μελλοντική πορεία των δεικτών που σας ενδιαφέρουν
