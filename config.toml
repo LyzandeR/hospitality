@@ -115,12 +115,12 @@ theme = "airspace-hugo"
         message = "Το Μηνυμά σας"
         button = "Αποστολή"
       [Languages.gr.params.contact.box]
-        title = ""
-        address = ""
+        title = "Το γραφείο μας"
+        address = "139 Sandycombe Rd, Richmond, London"
         email = "Email: info@hospitalityaisolutions.com"
-        phone = "Phone: "
+        linkedin = "LinkedIn: HAIS"
       [Languages.gr.params.contact.gmaps]
-        title = ""
+        title = "HAIS"
 
   ######## english language
   [Languages.en]
@@ -214,9 +214,9 @@ theme = "airspace-hugo"
       message = "Your message"
       button = "Send message"
     [Languages.en.params.contact.box]
-      title = ""
-      address = ""
+      title = "Our Office"
+      address = "139 Sandycombe Rd, Richmond, London"
       email = "Email: info@hospitalitysolutionsai.com"
-      phone = "Phone:"
+      linkedin = "LinkedIn: HAIS"
     [Languages.en.params.contact.gmaps]
-      title = ""
+      title = "HAIS"
