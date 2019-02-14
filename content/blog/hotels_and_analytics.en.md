@@ -5,7 +5,7 @@ description = "A blog about hospitality analytics"
 author = "Theo Boutaris"
 tags = ["hotels"]
 categories = ["analytics"]
-image = "img/work/competitors3.jpg"
+image = "img/blog/blog1_resized.jpg"
 +++
 
 The hotel and hospitality industry serve millions of customers every day, each one of which have their own needs and expectations. For a hotel, it
@@ -17,9 +17,7 @@ a fortune on additional services like room service, spa treatments and sport act
 lifetime value is of the utmost importance for a successful hotel. It is very difficult for a hotelier to identify the lifetime value of 
 a customer simply by one visit, however with the power of artificial intelligence it can.
 
-Analytics, data science and AI have found their way into lots of industries (e.g. retail and finance) but the hospitality industry has lagged behind in adopting an analytics-first philosophy. 
-
-However, this has started to change:
+Analytics, data science and AI have found their way into lots of industries (e.g. retail and finance) but the hospitality industry has lagged behind in adopting an analytics-first philosophy. However, this has started to change:
 
 A pioneering example of how analytics and AI have helped in the hospitality industry includes the US hotel chain Red Roof Inn. During 2013 / 2014
 they realised that there is huge value in establishing hotels close to major airports at a point in time where flight cancellations were at 3%. In
