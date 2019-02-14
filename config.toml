@@ -39,7 +39,7 @@ theme = "airspace-hugo"
     [[Languages.gr.menu.header]]
       weight = 3
       name = "Blog"
-      url = "gr/blog"
+      url = "/blog"
     [[Languages.gr.menu.header]]
       weight = 4
       name = "Υπηρεσίες"
@@ -64,7 +64,7 @@ theme = "airspace-hugo"
     [[Languages.gr.menu.footer]]
       weight = 4
       name = "Blog"
-      url = "gr/blog"
+      url = "/blog"
     [[Languages.gr.menu.footer]]
       weight = 5
       name = "Όροι"
@@ -75,15 +75,15 @@ theme = "airspace-hugo"
 
     [Languages.gr.params.slider]
       enable = true
-      title = "Λυσεις Τεχνιτης Νοημοσυνης για την Ξενοδοχειακη σας Μοναδα"
-      subtitle = "Συνδιάζοντας την εμπειρία μας στους τομείς της φιλοξενίας και της τεχνιτής νοημοσύνης παρέχουμε υψιλής ποιότητας υπηρεσίες για την αύξηση της κερδοφορίας σας."
+      title = "Λυσεις Τεχνητης Νοημοσυνης για την Ξενοδοχειακη σας Μοναδα"
+      subtitle = "Συνδιάζοντας την εμπειρία μας στους τομείς της φιλοξενίας και της τεχνητής νοημοσύνης παρέχουμε υψηλής ποιότητας υπηρεσίες για την αύξηση της κερδοφορίας σας."
 
     [Languages.gr.params.wrapper]
       enable = true
       image = "img/wrapper-img.jpg"
       title = "Η εταιρια μας"
       italic = "Φιλοδοξία μας είναι να φέρουμε μία νέα εποχή στον κόσμο της φιλοξενίας. "
-      paragraph = "Ζούμε στην εποχή που το μεγαλύτερο κεφάλαιο μίας εταιρίας είναι τα δεδομένα που παράγει. Ο στόχος της hospitality solutions ai είναι να σας βοηθήσει να αξιοποιήσετε αυτά τα δεδομένα με την τελευταία λέξη της τεχνολογίας στον κλάδο της τεχνιτής νοημοσύνης για την λήψη αποφάσεων."
+      paragraph = "Ζούμε στην εποχή που το μεγαλύτερο κεφάλαιο μίας εταιρίας είναι τα δεδομένα που παράγει. Ο στόχος της hospitality ΑΙ solutions είναι να σας βοηθήσει να αξιοποιήσετε αυτά τα δεδομένα με την τελευταία λέξη της τεχνολογίας στον κλάδο της τεχνητής νοημοσύνης για την λήψη αποφάσεων."
 
     [Languages.gr.params.blog]
       enable = true
@@ -93,10 +93,10 @@ theme = "airspace-hugo"
     [Languages.gr.params.feature]
       enable = true
       title = "Καινοτομια στην Φιλοξενiα"
-      content = "Είναι γνωστό το παράδειγμα τoυ Red Roof Inn που χρησιμοποίησε την δύναμη των προβλέψεων για να καταλάβει σε ποιες περιοχές να ανοίξει νέα ξενοδοχεία. Αναλύοντας δεδομένα καιρού και συνδιάζοντας τα με τις καθυστερίσεις των αεροδρομίων προέβλεψε ποιες περιοχές θα είχαν ζήτηση σε ξενοδοχειακές μονάδες. Κατάφερε έτσι να αυξήσει τα έσοδα της 10% ετησίως. Με την αξιοποίηση τόσο εσωτερικών όσο και εξωτερικών δεδομένων υποστηρίζουμε την λήψη αποφάσεων της ξενοδοχιακής σας μονάδας. Τα δεδομένα σας έχουν την απάντηση."
+      content = "Είναι γνωστό το παράδειγμα τoυ Red Roof Inn που χρησιμοποίησε την δύναμη των προβλέψεων για να καταλάβει σε ποιες περιοχές να ανοίξει νέα ξενοδοχεία. Αναλύοντας δεδομένα καιρού και συνδιάζοντάς τα με τις καθυστερίσεις των αεροδρομίων προέβλεψε ποιες περιοχές θα είχαν ζήτηση σε ξενοδοχειακές μονάδες. Κατάφερε έτσι να αυξήσει τα έσοδα της 10% ετησίως. Με την αξιοποίηση τόσο εσωτερικών όσο και εξωτερικών δεδομένων υποστηρίζουμε την λήψη αποφάσεων της ξενοδοχιακής σας μονάδας. Τα δεδομένα σας έχουν την απάντηση."
 
       [Languages.gr.params.feature.button]
-        caption = "View Works"
+        caption = "Προιόντα"
         url = "/gr/work"
 
     [Languages.gr.params.call]
@@ -182,12 +182,12 @@ theme = "airspace-hugo"
     image = "img/wrapper-img.jpg"
     title = "About Us"
     italic = "Our ambition is to lead the hospitality industry into a new era of evolution"
-    paragraph = "We live in a period where the most important asset for a company is the data they produce. The goal for hospitality solutions ai is to help you utilise your data, implementing artificial intelligence algorithms, to drive decision making."
+    paragraph = "We live in a period where the most important asset for a company is the data they produce. The goal for hospitality AI solutions is to help you utilise your data, implementing artificial intelligence algorithms, to drive decision making."
 
   [Languages.en.params.blog]
     enable = true
     title = "Personalised solutions based on your needs."
-    subtitle = ""
+    subtitle = "Blog"
 
   [Languages.en.params.feature]
     enable = true
